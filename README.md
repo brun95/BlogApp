@@ -1,5 +1,9 @@
-# URL:
+# What is this?
+This is a full stack _demo_ Blog App done with React, NextJs, TailwindCss and for the Backend I used Sanity.io as a CMS(Content Management System).
 
+The comment section is working, but every comment needs to be approved by me on Sanity.
+
+# URL:
 https://blog-app-murex.vercel.app/
 
 
